@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecd559ee-fb72-4333-8462-d6b3dda95c1d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/simple_graphics_0_2_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GladiatorsGame 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GladiatorsGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/simple-graphics-0.2.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/images/gladiator_arena_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/images/tile001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/maps/saveFile2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/right_sprites/right_getDamage01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/right_sprites/right_getDeath01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollisionGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollsionTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DamageBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KeyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2SNx0C32tR4vcFRzZCCf8h74USU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/codecadet/Desktop/GladiatorsGame 3"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecd559ee-fb72-4333-8462-d6b3dda95c1d" name="Changes" comment="" />
+      <created>1689000614367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689000614367</updated>
+    </task>
+    <servers />
+  </component>
+</project>
