@@ -35,6 +35,7 @@ public class Server {
                 Player player = new Player(client, gameEngine);
                 gameEngine.players.add(player);
                 player.setPosition();
+                System.out.println("added new player and set its position");
                 System.out.println(player.xPos);
                 System.out.println(player.yPos);
                 String clientData = "" + player.name + " " + gameEngine.playersDefaultHealth +
