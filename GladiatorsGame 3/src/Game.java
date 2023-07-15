@@ -11,7 +11,7 @@ public class Game{
         players = new ArrayList<>();
         Field.generateValues("images/gladiator_arena_map.png");
         collisionGrid = new CollisionGrid();
-        collisionGrid.loadGrid("res/maps/saveFile2.txt");
+        collisionGrid.loadGrid("GladiatorsGame 3/res/maps/saveFile2.txt");
         players.add(new Player("Euclides", collisionGrid, Field.screenWidth / 4, Field.screenHeight / 2, Direction.RIGHT, this));
         players.add(new Player("World", collisionGrid, Field.screenWidth/4 * 3, Field.screenHeight / 2, Direction.LEFT, this));
     }
