@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GladiatorClient/GladiatorClient.iml" filepath="$PROJECT_DIR$/GladiatorClient/GladiatorClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GladiatorServer/GladiatorServer.iml" filepath="$PROJECT_DIR$/GladiatorServer/GladiatorServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GladiatorsGame 3/GladiatorsGame 3.iml" filepath="$PROJECT_DIR$/GladiatorsGame 3/GladiatorsGame 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gladiatorsgame.iml" filepath="$PROJECT_DIR$/.idea/gladiatorsgame.iml" />
+    </modules>
+  </component>
+</project>
